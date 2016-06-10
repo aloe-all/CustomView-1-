@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="android:text"/>
+        <attr name="textsize" format="integer|reference"/>
+        <attr name="textcolor" format="integer|reference"/>
+    </declare-styleable>
+
+    <attr name="defStyleAttr_custom" format="reference"/>
+</resources>

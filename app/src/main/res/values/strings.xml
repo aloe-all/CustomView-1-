@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomView1_Attributes</string>
+    <string name="demo_txt">helloworld</string>
+</resources>
